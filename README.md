@@ -16,8 +16,11 @@ Researchers and practitioners can utilize this dataset for the development and e
 There are total of  2 Classes.
   *  NORMAL : 1142 Files
   *  PCOS : 844 Files<br><hr>
+
+
+  
 PCOS UltraSound Images <br> 
-<img src="https://github.com/Sh-bharat/PCOS_Image_Classification/assets/133742551/5acad53b-5259-4bc5-8a4d-183e7731d7a0" width="700" height="450" /><br>Normal UltraSound Images <br> <img src="https://github.com/Sh-bharat/PCOS_Image_Classification/assets/133742551/dda76bf0-cfc4-4ff6-b1f3-3294885e3f22" width="700" height="450" />
+<img src="https://github.com/Sh-bharat/Polycystic_Ovary_Syndrome_PCOS_Image_Classification/assets/133742551/a023a1a0-ce1d-4402-903d-108c62ceca0f" width="700" height="450" /><br>Normal UltraSound Images <br> <img src="https://github.com/Sh-bharat/Polycystic_Ovary_Syndrome_PCOS_Image_Classification/assets/133742551/635e833c-8b01-42fb-aede-0f152dfd304d" width="700" height="450" />
 
 
 ## Trained YOLO Model
@@ -27,8 +30,9 @@ The YOLO (You Only Look Once) model has been trained on the cleaned dataset, ach
 - **Accuracy**: 99.9%
 - **Training Details**:Epochs=50
 
+
 ## Results
-<img src="https://github.com/Sh-bharat/PCOS_Image_Classification/assets/133742551/a8389e1f-8023-4af4-85b0-4f9a098d2875" width="500" height="300" />
+<img src="https://github.com/Sh-bharat/Polycystic_Ovary_Syndrome_PCOS_Image_Classification/assets/133742551/ded51615-8978-422e-8709-1048a95912ea" width="500" height="300" />
 
 
 
